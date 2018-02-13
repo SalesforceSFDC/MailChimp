@@ -1,5 +1,5 @@
 # MailChimp
-* pass your sales leads and contacts to MailChimp
+* Pass your sales leads and contacts to MailChimp
 * Lead creation allows MailChimp to create Salesforce leads from your MailChimp subscribers who aren't already Salesforce leads or contacts.
 * <b>ALLOW MAILCHIMP TO CREATE LEADS IN SALESFORCE</b> - Enabling this feature will allow MailChimp to create new leads in Salesforce for email addresses that don't match existing leads or contacts.
 * <b>TURN ON/OFF DATA SYNC</b> - Enabling the data sync feature will schedule a series of batch tasks. The data sync updates your MailChimp subscriber fields with the corresponding contact/lead field data each hour, and it updates the Salesforce contacts/leads with the MailChimp subscriber campaign activity each night.
