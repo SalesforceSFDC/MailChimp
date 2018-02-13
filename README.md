@@ -8,3 +8,4 @@
 * <b>SYNC LIST</b> - The "Sync List" link updates Salesforce with the MailChimp list settings, fields, segments, and groups. If the sync settings for the list allow subscriber activity, then this link will update the contacts/leads with the MailChimp campaign activity.
 * <b>NEW QUERY</b> - The "New Query" button takes you to the query builder. Queries function to subscribe contacts/leads to the MailChimp list, and to update existing MailChimp list subscribers based on the corresponding contacts/leads in Salesforce. When updating existing subscribers, the Salesforce data will overwrite the MailChimp list field data. Using the filters on step two of the query builder, it’s possible to query all of the contacts/leads or to query specific contacts/leads based on their Salesforce field data.
 * <b>REFRESH MC CAMPAIGNS</b> - The "Refresh MC Campaigns" button allows the user to manually update the campaign activity data for all campaigns.
+* 
